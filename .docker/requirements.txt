@@ -13,3 +13,5 @@ pennylane
 pennylane-cirq
 jax[cpu]
 pyscf
+pandas
+plotly
